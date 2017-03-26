@@ -10,10 +10,10 @@ http://www.hivemq.com/blog/mqtt-essentials/page/2/
 2. http://www.hivemq.com/blog/mqtt-essentials-part2-publish-subscribe  
 3. http://www.hivemq.com/blog/mqtt-essentials-part-3-client-broker-connection-establishment  
 <br>    
-4. http://www.hivemq.com/blog/mqtt-essentials-part-4-mqtt-publish-subscribe-unsubscribe    
-5. http://www.hivemq.com/blog/mqtt-essentials-part-5-mqtt-topics-best-practices    
+4. http://www.hivemq.com/blog/mqtt-essentials-part-4-mqtt-publish-subscribe-unsubscrib<br>
+5. http://www.hivemq.com/blog/mqtt-essentials-part-5-mqtt-topics-best-practices<br>
 <br>
-6. http://www.hivemq.com/blog/mqtt-essentials-part-6-mqtt-quality-of-service-levels    
+6. http://www.hivemq.com/blog/mqtt-essentials-part-6-mqtt-quality-of-service-levels  
 7. http://www.hivemq.com/blog/mqtt-essentials-part-7-persistent-session-queuing-messages    
 8. http://www.hivemq.com/blog/mqtt-essentials-part-8-retained-messages  
 <br>
