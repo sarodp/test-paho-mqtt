@@ -21,6 +21,6 @@ http://www.hivemq.com/blog/mqtt-essentials/page/2/
 10. http://www.hivemq.com/blog/mqtt-essentials-part-10-alive-client-take-over    
 11. http://www.hivemq.com/blog/mqtt-essentials-special-mqtt-over-websockets  
 <br>
-12. http://www.hivemq.com/blog/mqtt-essentials-wrap-up  
+12. http://www.hivemq.com/blog/mqtt-essentials-wrap-up   
 <br>  
   
